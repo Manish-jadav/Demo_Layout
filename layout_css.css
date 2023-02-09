@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.main_header{
+    border-bottom: 2px solid gray;
+}
+.logo{
+    padding: 20px;
+    width: 250px;
+}
+
+#list{
+    list-style-type: none;
+    float: right;
+    padding: 3px;
+
+   
+}
