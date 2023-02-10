@@ -32,7 +32,37 @@ a.linkk:link{
     padding: 20px;
     margin-top: 70px;
     padding-left: 25%;
+    bot
 }
 .set_image{
-    padding: 40px;
+    padding: 30px;
 }
+.cloude2{
+    padding: 10px;
+    width: 100px;
+}
+.s_text{
+    position: absolute;
+    letter-spacing: -5px ;
+    bottom: 50px;
+    left: 10px;
+    width: 10px;
+    font-size: 330%;
+    color:white;
+    text-shadow: 5px 5px 3px rgb(77, 73, 73);
+}
+
+.i_t{
+    margin: 3px;
+    padding: 10px;
+    position: relative;
+    
+}
+.i_tt{
+    border-radius: 10px;
+}
+
+
+
+
+
