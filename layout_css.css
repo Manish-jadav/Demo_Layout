@@ -76,7 +76,8 @@ a.linkk:link{
     margin: 20px;
     padding-left: 50px;
     padding-right: 50px;
-    
+    border-bottom: 2px solid gray;
+    padding-bottom: 130px;
 }
 .ccenter{
     display: flex;
@@ -91,7 +92,7 @@ a.linkk:link{
     display: flex;
     flex-wrap: inherit;
     justify-content: center;
-    padding-right:0% ;
+    padding-right:5% ;
 
 }
 .center_image1{
@@ -107,4 +108,78 @@ a.linkk:link{
 .center_image3{
     padding-bottom: 0%;
 }
-
+.container{
+    position: relative;
+    bottom: 0px;
+    left: 1px;
+    border: 2px solid white;
+    width: 60%;
+    top: 40px;
+    
+}
+.set1_img{
+    border-radius: 20px;
+    position: absolute;
+        top: 0%;
+        left: 0%;
+        height: 100%;
+        width: 100%;
+                
+}
+.des1{
+         position: absolute;
+        bottom: 5px;
+        left: 1px;
+        top: 350px;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    width: 70%;
+    height: 170px;
+    margin-left: 0px;
+    padding-top: 2px;
+    border-radius: 10px;
+}
+.container1{
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    border: 2px solid white;
+    width: 500px;
+    height: 250px;
+    top: 33px;
+    
+}
+.set2_img{
+    border-radius: 20px;
+    position: absolute;
+        top: 0%;
+        left: 0%;
+        height: 100%;
+        width: 100%;
+                               
+}
+.des2{
+    position: absolute;
+    bottom: 5px;
+    left: 1px;
+    top: 150px;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    width: 70%;
+    height: 41%;
+    margin-left: 0px;
+    padding-top: 2px;
+    border-radius: 10px;
+}
+.blog13{
+    
+    margin: 90px;     
+}
+.dis{
+    padding-left: 100px;
+}
+.blog14{
+    margin: ;
+}
