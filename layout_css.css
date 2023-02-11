@@ -3,26 +3,29 @@
     padding-right:4px ;
     padding-left: 4px;
     margin: 0px;
-
 }
 .main_header{
-    
     border-bottom: 2px solid gray;
     margin: 10px;
+    padding: 4px;
+
 }
+.flex-container{
+    display: flex;
+    padding: 10px;
+    
+ }
 .logo{
-    padding: 18px;
+    padding: 12px;
     width: 250px;
     margin-top: 0px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     margin-left: 50px;
 }
-
 .list{
     list-style-type: none;
-
-    padding: 13px;
-   
+    padding: 11px;
+    margin-top: 6px;
 }
 .search{
     list-style-type: none;
@@ -37,7 +40,6 @@ a.linkk:link{
     padding: 20px;
     margin-top: 70px;
     padding-left: 25%;
-    
 }
 .set_image{
     padding: 30px;
@@ -58,12 +60,10 @@ a.linkk:link{
     color:white;
     text-shadow: 5px 5px 3px rgb(77, 73, 73);
 }
-
 .i_t{
     margin: 3px;
     padding: 10px;
     position: relative;
-    
 }
 .i_tt{
     border-radius: 10px;
@@ -76,8 +76,8 @@ a.linkk:link{
 .middle_content{
     text-align: center;
     margin: 20px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 54px;
+    padding-right: 54px;
     border-bottom: 2px solid gray;
     padding-bottom: 130px;
 }
@@ -95,7 +95,6 @@ a.linkk:link{
     flex-wrap: inherit;
     justify-content: center;
     padding-right:5% ;
-
 }
 .center_image1{
     padding-right: 10px;
@@ -117,22 +116,20 @@ a.linkk:link{
     border: 2px solid white;
     width: 60%;
     top: 40px;
-    
 }
 .set1_img{
     border-radius: 20px;
     position: absolute;
-        top: 0%;
-        left: 0%;
-        height: 100%;
-        width: 100%;
-                
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;          
 }
 .des1{
-         position: absolute;
-        bottom: 5px;
-        left: 1px;
-        top: 350px;
+    position: absolute;
+    bottom: 5px;
+    left: 1px;
+    top: 350px;
     background-color: white;
     color: black;
     border: 2px solid white;
@@ -155,10 +152,10 @@ a.linkk:link{
 .set2_img{
     border-radius: 20px;
     position: absolute;
-        top: 0%;
-        left: 0%;
-        height: 100%;
-        width: 100%;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
                                
 }
 .des2{
@@ -218,19 +215,23 @@ a.linkk:link{
 }
 #one{
     background-color: grey;
-			color: white;
-			border-radius: 50%;
-			width: 35px;
-			height: 35px;
-			font-size: 20px;
-            margin-top: 7px;
+	color: white;
+	border-radius: 50%;
+	width: 35px;
+	height: 34px;
+	font-size: 22px;
+    margin-top: 9px;
 }
 .main_footer{
+    padding-top: 40px;
+    padding-left: 0%;
+}
+.footer{
     display: flex;
-    align-items: center;
+    padding: 40px;
+    padding-top: 20px;
     background-color: black;
-    align-content: center;
-
+    flex-direction: row;
 }
 a.bottom_menu_link:link{
     color: white;
@@ -239,4 +240,6 @@ a.bottom_menu_link:link{
 }
 .rgt{
     color: white;
+    margin-top: 22px;
+    padding-left: 323px;
 }
