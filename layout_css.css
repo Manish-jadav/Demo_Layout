@@ -1,5 +1,7 @@
  *{ 
-    padding: 4px;
+    padding-top: 4px;
+    padding-right:4px ;
+    padding-left: 4px;
     margin: 0px;
 
 }
@@ -222,4 +224,19 @@ a.linkk:link{
 			height: 35px;
 			font-size: 20px;
             margin-top: 7px;
+}
+.main_footer{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    align-content: center;
+
+}
+a.bottom_menu_link:link{
+    color: white;
+
+
+}
+.rgt{
+    color: white;
 }
